@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GabrielLuiz13/Jogo-Secret_Word.git/static/css/main.6228fa27.css",
+    "main.js": "/GabrielLuiz13/Jogo-Secret_Word.git/static/js/main.1c57dd75.js",
+    "static/js/787.c74d0e55.chunk.js": "/GabrielLuiz13/Jogo-Secret_Word.git/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/GabrielLuiz13/Jogo-Secret_Word.git/index.html",
+    "main.6228fa27.css.map": "/GabrielLuiz13/Jogo-Secret_Word.git/static/css/main.6228fa27.css.map",
+    "main.1c57dd75.js.map": "/GabrielLuiz13/Jogo-Secret_Word.git/static/js/main.1c57dd75.js.map",
+    "787.c74d0e55.chunk.js.map": "/GabrielLuiz13/Jogo-Secret_Word.git/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6228fa27.css",
+    "static/js/main.1c57dd75.js"
+  ]
+}
